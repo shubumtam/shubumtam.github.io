@@ -1,0 +1,35 @@
+body{
+  margin: 0px;
+  min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    word-break:break-all;
+    /* This is used to break text which appears large at size of viewport */
+
+}
+#de1{
+    padding: 9px 19px 12px 30px;
+  font-size: x-large;
+    text-align: center;
+    color: white;
+    background-color: black;
+  }
+
+#de{
+  margin-top: auto;
+    /* padding:10px 0px; */
+    align-items: center;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    background-color: black;
+  }
+
+  
+.swiper-slide img{
+  width: auto;
+  height: 400px;
+}
+
